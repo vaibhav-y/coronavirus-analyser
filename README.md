@@ -1,6 +1,6 @@
 # Coronavirus Analyser
 
-A react tool for coronvairus analysis and other basic functionalities.
+A react tool for coronavirus analysis and other basic functionalities.
 
 ## Usage Via Git
 1. Fork the repository.
