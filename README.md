@@ -10,6 +10,6 @@ A react tool for coronvairus analysis and other basic functionalities.
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Usage Via Docker
-1. Pull docker image using `docker pull <user-name>/coronavirus-analyser`
-2. Run the docker image using `docker run -it -p 3000:3000 <user-name>/coronavirus-analyser`.
+1. Pull docker image using `docker pull yadavvaibhav/coronavirus-analyser`
+2. Run the docker image using `docker run -it -p 3000:3000 yadavvaibhav/coronavirus-analyser`.
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
